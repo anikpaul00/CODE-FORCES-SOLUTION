@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704297063 source:c:\users\user\desktop\leet\petyaandstrings\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
